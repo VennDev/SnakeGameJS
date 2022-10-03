@@ -1,0 +1,15 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.score {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+.gameOver {
+    font-size: 2em;
+    font-weight: bold;
+    color: red;
+}
